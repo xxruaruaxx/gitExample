@@ -1,2 +1,3 @@
-boss,she286,He,Sizhuo
+role,NetID,LastName,FirstName
+boss,she286,He,Flora
 employee,lliu426,Liu,Lexiang
